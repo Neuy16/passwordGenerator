@@ -7,9 +7,9 @@
 - By doing this, I learned how to use "for loops" to look for answers and push those to a specific variable; how to use "while loops" to set paramiters on the length of the password; how to push variable's contents into empty ones using "switch casing".
 
 ## Snippet
-![](assets\images\passwordEmpty.PNG)
+![](repos-self\passwordGenerator\assets\images\passwordEmpty.PNG)
 
-![](assets\images\passwordFilled.PNG)
+![](repos-self\passwordGenerator\assets\images\passwordFilled.PNG)
 
 
 
